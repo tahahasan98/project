@@ -1,0 +1,20 @@
+Instance Type,Platform,Tenancy,Region,Average Coverage,RI covered Hours,On-Demand Hours,Total Running Hours,On-Demand Cost
+m1.medium,Linux/UNIX,Shared,us-east-1,0,0,268,268,23
+m4.large,Linux/UNIX,Shared,us-east-1,0,0,51590,51590,5159
+t2.large,Linux/UNIX,Shared,us-east-1,0,0,6624,6624,615
+m4.large,Linux/UNIX,Shared,us-west-2,0,0,2208,2208,221
+t2.micro,Linux/UNIX,Shared,us-west-2,0,0,4416,4416,51
+t2.large,Linux/UNIX,Shared,us-west-2,0,0,2208,2208,205
+t2.micro,Linux/UNIX,Shared,us-east-1,0,0,1734,1734,20
+m3.xlarge,Linux/UNIX,Shared,us-east-1,0,0,9090,9090,2418
+t1.micro,Linux/UNIX,Shared,us-east-1,0,0,7334,7334,147
+c5.large,Linux/UNIX,Shared,us-east-1,0,0,3706,3706,315
+t2.nano,Linux/UNIX,Shared,us-east-1,0,0,8831,8831,51
+t2.medium,Linux/UNIX,Shared,us-east-1,0,0,191866,191866,8903
+t2.small,Linux/UNIX,Shared,us-east-1,0,0,92394,92394,2125
+m1.small,Linux/UNIX,Shared,us-east-1,0,0,30912,30912,1360
+c5.xlarge,Linux/UNIX,Shared,us-east-1,0,0,189633,189633,32238
+m1.large,Linux/UNIX,Shared,us-east-1,0,0,4416,4416,773
+m5.xlarge,Linux/UNIX,Shared,us-east-1,0,0,2208,2208,424
+m3.medium,Linux/UNIX,Shared,us-east-1,0,0,22081,22081,1479
+m5.large,Linux/UNIX,Shared,us-east-1,0,0,12270,12270,1178
